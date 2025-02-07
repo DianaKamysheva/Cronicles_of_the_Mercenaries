@@ -51,6 +51,13 @@ label meet_ruusaan:
 
     hide ruusaan
 
+menu:
+
+    "Открыть КПК":
+        jump open_pda
+
+label open_pda:
+
     show pda at truecenter
     with fade
 
