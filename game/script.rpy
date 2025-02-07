@@ -35,8 +35,6 @@ label start:
 
     p "Привет, привет, давно не виделись, действительно."
 
-#     return
-
 label meet_ruusaan:
 
     play music theforcetheme
@@ -64,8 +62,6 @@ label open_pda:
     "..."
 
     hide pda
-
-#     return
 
 label meet_klos:
 
