@@ -1,31 +1,63 @@
-2025-02-07 12:19:57 UTC
+2025-02-07 12:55:21 UTC
 Windows-10-10.0.19044
 Ren'Py 8.3.4.24120703
 
-Early init took 0.25s
-Loading error handling took 0.12s
-Loading script took 0.67s
-Loading save slot metadata took 0.05s
+Early init took 0.89s
+Loading error handling took 0.36s
+Loading script took 3.47s
+Loading save slot metadata took 0.16s
 Loading persistent took 0.00s
-Running init code took 0.13s
-Loading analysis data took 0.03s
-Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.03s
+ - Init at renpy/common/00updater.rpy:23 took 0.32513 s.
+ - Init at game/gui.rpy:11 took 0.25665 s.
+ - Init at renpy/common/00library.rpy:450 took 0.27825 s.
+Running init code took 1.04s
+Loading analysis data took 0.13s
+Analyze and compile ATL took 0.01s
+Reloading save slot metadata took 0.19s
 Index archives took 0.00s
-Dump and make backups took 0.12s
+Backing up script files to 'C:\\Users\\lenovo\\AppData\\Roaming/RenPy/backups\\Cronicles_of_the_Mercenaries':
+Dump and make backups took 0.51s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.05s
+Initial gc took 0.23s
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0.01s
+Creating interface object took 0.05s
 Cleaning stores took 0.00s
-Init translation took 0.07s
-Build styles took 0.00s
-Load screen analysis took 0.06s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
-Prepare screens took 0.12s
+Init translation took 0.20s
+Build styles took 0.01s
+Load screen analysis took 0.01s
+Analyze screens took 0.04s
+Save screen analysis took 0.12s
+Prepare screens took 0.30s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.08s
+Running _start took 0.00s
+Interface start took 2.15s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Intel(R) HD Graphics 520'
+Version: b'4.5.0 - Build 24.20.100.6286'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1419, 798) drawable=(1419, 798)
+Could not open 'cache/shaders.txt':
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.10s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.10s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
