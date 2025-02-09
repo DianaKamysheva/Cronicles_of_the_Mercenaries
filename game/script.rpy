@@ -5,6 +5,10 @@ define r = Character('Руусаан', color="#FF4D00")
 
 define k = Character('Клос', color="00693E")
 
+define t = Character('Ти Рэн', color="#6A5ACD")
+
+define i = Character('Игорек', color="#256D7B")
+
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
 # Например, сцену bg room можно вызвать файлом "bg room.png",
@@ -34,6 +38,10 @@ label start:
     show klos climsy
 
     k "Привет, привет, давно не виделись, действительно."
+
+    t "Привет"
+
+    i "Привет"
 
 label meet_ruusaan:
 
